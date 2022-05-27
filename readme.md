@@ -1,5 +1,5 @@
 # Installation Guide for the official Launcher
-1 Download Fabric from [fabricmc.net](images/https://fabricmc.net/use/installer/)
+1 Download Fabric from [fabricmc.net](https://fabricmc.net/use/installer/)
 
 2 Open the file from step 1, sellect `1.18.2` and Loader Version `0.14.6`
 ![alt text](images/installer.png)
@@ -25,7 +25,7 @@
 
 # Installation Guide for the Curseforge Launcher
 Download `curseforge.zip` from above and open it in with 
-([Curseforge App download link](images/https://download.curseforge.com/#download-options), you might wanna disable Start with System for Curseforge and Overwolf)
+([Curseforge App download link](https://download.curseforge.com/#download-options), you might wanna disable Start with System for Curseforge and Overwolf)
 ![alt text](images/curseforgeinstaller.png)
 
 
