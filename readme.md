@@ -1,8 +1,8 @@
 # Installation Guide for the official Launcher
-1 Download Fabric from [fabricmc.net](https://fabricmc.net/use/installer/)
+1 Download Fabric from [fabricmc.net](images/https://fabricmc.net/use/installer/)
 
 2 Open the file from 1, sellect `1.18.2` and Loader Version `0.14.6`
-![alt text](installer.png)
+![alt text](images/installer.png)
 
 3 Press `install`
 
@@ -11,27 +11,27 @@
 5 Download the `modpack-official-launcher.zip` from above and open it in an **new** explorer Window
 
 6 Open `minecraft.zip` and copy the files
-![alt text](copy.png)
+![alt text](images/copy.png)
 
 7 Paste the files into the explorer opened in step 4
 
 8 Open the launcher and start the game, make sure to have fabric sellected
-![alt text](sellect.png)
+![alt text](images/sellect.png)
 
 (8.1 add the checkmark and press play if you see this message)
-![alt text](warning.png)
+![alt text](images/warning.png)
 
 9 In case of low FPS, lag spikes and the game not working follow the Troubleshooting 
 
 # Installation Guide for the Curseforge Launcher
 Download `curseforge.zip` from above and open it in with 
-([Curseforge App download link](https://download.curseforge.com/#download-options), you might wanna disable Start with System for Curseforge and Overworlf)
-![alt text](curseforgeinstaller.png)
+([Curseforge App download link](images/https://download.curseforge.com/#download-options), you might wanna disable Start with System for Curseforge and Overworlf)
+![alt text](images/curseforgeinstaller.png)
 
 
 # Troubleshooting
 ## Game Starts without mods
-Can you see this symbol in the mod folder? ![alt text](java.png)
+Can you see this symbol in the mod folder? ![alt text](images/java.png)
 
     I see a blank file symbol > install java
 
@@ -39,10 +39,10 @@ Can you see this symbol in the mod folder? ![alt text](java.png)
 
 ## Low FPS or Lag even with low render distances
 Go into the launcher, and follow the steps bellow 
-![alt text](troubleshooting-gotoprofilesettings.png)
+![alt text](images/troubleshooting-gotoprofilesettings.png)
 change the sellected number to a higher one, this is the RAM which the Game is allowed to use, too big numbers aren't good either, try 5 at first and save the edits
 
-![alt text](troubleshooting-editram.png)
+![alt text](images/troubleshooting-editram.png)
 
 ## Get Voice Chat working
 Go to the keybind settings and search for `chat`, change `Voice Chat GUI` to an valid keybind, we will use F7 for this example
