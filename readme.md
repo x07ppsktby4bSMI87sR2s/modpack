@@ -1,7 +1,7 @@
 # Installation Guide for the official Launcher
 1 Download Fabric from [fabricmc.net](images/https://fabricmc.net/use/installer/)
 
-2 Open the file from 1, sellect `1.18.2` and Loader Version `0.14.6`
+2 Open the file from step 1, sellect `1.18.2` and Loader Version `0.14.6`
 ![alt text](images/installer.png)
 
 3 Press `install`
@@ -10,7 +10,7 @@
 
 5 Download the `modpack-official-launcher.zip` from above and open it in an **new** explorer Window
 
-6 Open `minecraft.zip` and copy the files
+6 Open `modpack-official-launcher.zip` and copy the files
 ![alt text](images/copy.png)
 
 7 Paste the files into the explorer opened in step 4
@@ -25,7 +25,7 @@
 
 # Installation Guide for the Curseforge Launcher
 Download `curseforge.zip` from above and open it in with 
-([Curseforge App download link](images/https://download.curseforge.com/#download-options), you might wanna disable Start with System for Curseforge and Overworlf)
+([Curseforge App download link](images/https://download.curseforge.com/#download-options), you might wanna disable Start with System for Curseforge and Overwolf)
 ![alt text](images/curseforgeinstaller.png)
 
 
@@ -53,7 +53,7 @@ To speak yourself do the same with the microphone, you may want to change the `A
 Sellect `Enable Microphone testing` and change the slider above till you can haer yourself but not other sounds from the background
 
 
-## Get started with mods utility mods
+## Get started with utility mods
 Press `M` to open the map, with right click you can add Waypoint and share the location
 
 Add a keybind for `Open Chesttracker GUI` ( eg. `F8`) and open it
